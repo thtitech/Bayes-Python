@@ -3,3 +3,4 @@ image
 .DS_Store
 .ipynb_checkpoints
 .python-version
+*.png
